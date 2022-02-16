@@ -1,0 +1,7 @@
+I
+850
+DRAPED_POLYGON
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+LAYER_GROUP taxiways +1
+TEXTURE_NOWRAP 3-3.png
+SCALE 25 25
